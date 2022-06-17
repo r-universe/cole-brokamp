@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "automagic"]
+	path = automagic
+	url = https://github.com/cole-brokamp/automagic
+	shallow = true
+	registered = true
+[submodule "mappp"]
+	path = mappp
+	url = https://github.com/cole-brokamp/mappp
+	shallow = true
+	registered = true

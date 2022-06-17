@@ -1,0 +1,10 @@
+[
+  {
+    "package": "automagic",
+    "oncran": true
+  },
+  {
+    "package": "mappp",
+    "oncran": true
+  }
+]

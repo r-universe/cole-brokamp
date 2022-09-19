@@ -8,8 +8,3 @@
 	url = https://github.com/cole-brokamp/automagic
 	shallow = true
 	registered = true
-[submodule "mappp"]
-	path = mappp
-	url = https://github.com/cole-brokamp/mappp
-	shallow = true
-	registered = true

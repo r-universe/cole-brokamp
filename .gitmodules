@@ -5,6 +5,9 @@
 [submodule "automagic"]
 	path = automagic
 	url = https://github.com/cole-brokamp/automagic
+[submodule "fr"]
+	path = fr
+	url = https://github.com/cole-brokamp/fr
 [submodule "mappp"]
 	path = mappp
 	url = https://github.com/cole-brokamp/mappp

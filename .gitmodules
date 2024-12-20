@@ -1,10 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/cole-brokamp/cole-brokamp.r-universe.dev
 	branch = HEAD
 [submodule "PurpleAir"]
 	path = PurpleAir
-	url = https://github.com/cole-brokamp/purpleair
+	url = https://github.com/cole-brokamp/PurpleAir
 [submodule "automagic"]
 	path = automagic
 	url = https://github.com/cole-brokamp/automagic
@@ -17,3 +17,6 @@
 [submodule "mappp"]
 	path = mappp
 	url = https://github.com/cole-brokamp/mappp
+[submodule "s3"]
+	path = s3
+	url = https://github.com/brokamp-group/s3

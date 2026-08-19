@@ -1,0 +1,34 @@
+[
+  {
+    "package": "stow",
+    "releasetag": true
+  },
+  {
+    "package": "needenv",
+    "releasetag": true
+  },
+  {
+    "package": "PurpleAir",
+    "releasetag": true
+  },
+  {
+    "package": "dpkg",
+    "releasetag": true
+  },
+  {
+    "package": "fr",
+    "releasetag": true
+  },
+  {
+    "package": "mappp",
+    "releasetag": true
+  },
+  {
+    "package": "automagic",
+    "releasetag": true
+  },
+  {
+    "package": "s3",
+    "releasetag": true
+  }
+]

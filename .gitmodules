@@ -5,32 +5,32 @@
 [submodule "PurpleAir"]
 	path = PurpleAir
 	url = https://github.com/cole-brokamp/PurpleAir
-	branch = *release
+	branch = v1.1.1
 [submodule "automagic"]
 	path = automagic
 	url = https://github.com/cole-brokamp/automagic
-	branch = *release
+	branch = v0.5.1
 [submodule "dpkg"]
 	path = dpkg
 	url = https://github.com/cole-brokamp/dpkg
-	branch = *release
+	branch = v0.6.2
 [submodule "fr"]
 	path = fr
 	url = https://github.com/cole-brokamp/fr
-	branch = *release
+	branch = v0.5.2
 [submodule "mappp"]
 	path = mappp
 	url = https://github.com/cole-brokamp/mappp
-	branch = *release
+	branch = 1.0.0
 [submodule "needenv"]
 	path = needenv
 	url = https://github.com/cole-brokamp/needenv
-	branch = *release
+	branch = v0.1.0
 [submodule "s3"]
 	path = s3
 	url = https://github.com/brokamp-group/s3
-	branch = *release
+	branch = v1.1.0
 [submodule "stow"]
 	path = stow
 	url = https://github.com/cole-brokamp/stow
-	branch = *release
+	branch = v0.3.0
